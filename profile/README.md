@@ -9,10 +9,10 @@ The 2.5 MeV RFQ designed and built by Time Co, Ltd., Japan is a pulsed accelerat
 
 The RFQ accelerator system can be divided into 5 major subsystems
 * RF source (LLRF)
+* Timing system
 * 200 MHz RF power amplifier
 * Vacuum system
 * Cooling system
-* Timing system
 * Machine protection system
 
 This GitHub organization contains all the source code necessary for controlling the RFQ accelerator. More documentation can be found at [bl-mirrotron.github.io](https://bl-mirrotron.github.io/)  
