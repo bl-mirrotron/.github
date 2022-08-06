@@ -18,5 +18,5 @@ The RFQ accelerator system can be divided into 5 major subsystems
 * Machine protection system
 
 This GitHub organization contains all the source code necessary for controlling the RFQ accelerator. More documentation can be found at
-* [Architecture](https://bl-mirrotron.github.io/)  
-* [Users' Guide](https://bl-mirrotron.github.io/mirrotron-user-guide/)
+* <a href="https://bl-mirrotron.github.io/" target="_blank">Architecture</a> 
+* <a href="https://bl-mirrotron.github.io/mirrotron-user-guide/" target="_blank">Users' Guide</a> 
