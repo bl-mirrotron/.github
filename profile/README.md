@@ -1,4 +1,4 @@
-![splash](doc/mirrotronSplash.png)
+![splash](mirrotronSplash.png)
 # The Mirrotron RFQ Control System
 
 The Mirrotron Radio Frequency Quadrupole (RFQ) is part of a compact neutron source that is being built in Martonvásár Hungary. The compact neutron source consists of five major systems
