@@ -15,8 +15,7 @@ The RFQ accelerator system can be divided into 5 major subsystems
 * 200 MHz RF power amplifier
 * Vacuum system
 * Cooling system
-* Machine protection system
 
 This GitHub organization contains all the source code necessary for controlling the RFQ accelerator. More documentation can be found at
-* <a href="https://docs.bl-mirrotron.com/" target="_blank">Control system Overview</a> 
-* <a href="https://docs.bl-mirrotron.com/mirrotron-user-guide/" target="_blank">Users' Guide</a> 
+* <a href="https://docs.bl-mirrotron.com/" target="_blank">Control system Overview</a>
+* <a href="https://docs.bl-mirrotron.com/mirrotron-user-guide/" target="_blank">Users' Guide</a>
