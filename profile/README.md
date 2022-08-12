@@ -1,5 +1,5 @@
-<img src="https://bl-mirrotron.github.io/doc/mirrotronSplash.png"/><br>
 # The Mirrotron RFQ Control System
+<img src="https://bl-mirrotron.github.io/doc/mirrotronSplash.png"/><br>
 
 The Mirrotron Radio Frequency Quadrupole (RFQ) is part of a compact neutron source that is being built in Martonvásár Hungary. The compact neutron source consists of five major systems
 * 35 keV Hydrogen Ion source
@@ -18,5 +18,5 @@ The RFQ accelerator system can be divided into 5 major subsystems
 * Machine protection system
 
 This GitHub organization contains all the source code necessary for controlling the RFQ accelerator. More documentation can be found at
-* <a href="https://bl-mirrotron.github.io/" target="_blank">Architecture</a> 
-* <a href="https://bl-mirrotron.github.io/mirrotron-user-guide/" target="_blank">Users' Guide</a> 
+* <a href="https://docs.bl-mirrotron.com/" target="_blank">Control system Overview</a> 
+* <a href="https://docs.bl-mirrotron.com/mirrotron-user-guide/" target="_blank">Users' Guide</a> 
